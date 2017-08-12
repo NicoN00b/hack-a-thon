@@ -1,4 +1,4 @@
-#Hack-a-Thon Event Organizer
+## Hack-a-Thon Event Organizer
 
 #### This application can take user input to organize teams for a hack-a-thon.
 
